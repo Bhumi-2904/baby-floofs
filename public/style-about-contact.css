@@ -1,0 +1,59 @@
+:root {
+    --cream: #FFF8E7;
+    --peach: #FFD4C2;
+    --pink: #F8C8DC;
+    --lavender: #E9DAFF;
+    --charcoal: #2A2A2A;
+    --accent: #C49A6C;
+}
+
+body {
+    background: var(--cream);
+    font-family: "Nunito", sans-serif;
+    color: var(--charcoal);
+}
+
+.page-title {
+    font-family: "Poppins", sans-serif;
+    color: var(--charcoal);
+}
+
+.intro-text {
+    color: #555;
+    font-size: 1.2rem;
+}
+
+.accent {
+    color: var(--accent);
+    font-weight: 600;
+}
+
+.section-subheading {
+    font-family: "Poppins", sans-serif;
+    color: var(--charcoal);
+}
+
+.about-text {
+    font-size: 1.05rem;
+    line-height: 1.7;
+}
+
+.about-list li {
+    font-size: 1.05rem;
+    margin-bottom: 8px;
+}
+
+.contact-form {
+    background: #fff;
+}
+
+.submit-btn {
+    background: var(--lavender);
+    color: var(--charcoal);
+    font-weight: 600;
+    transition: 0.2s ease;
+}
+
+.submit-btn:hover {
+    background: var(--peach);
+}

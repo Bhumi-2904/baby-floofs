@@ -1,0 +1,19 @@
+/* Color Palette Variables */
+:root {
+    --color-cream: #FFF8E7;
+    --color-peach: #FFD4C2;
+    --color-pink: #F8C8DC;
+    --color-lavender: #E9DAFF;
+    --color-charcoal: #2A2A2A;
+    --color-brown-accent: #C49A6C;
+    --color-white: #ffffff;
+}
+
+/* Typography */
+body {
+    font-family: 'Nunito', sans-serif;
+    color: var(--color-charcoal);
+    background-color: var(--color-cream);
+    line-height: 1.65; /* Spacious line-height for cozy aesthetic */
+}
+/* ... (rest of the CSS code remains the same) ... */

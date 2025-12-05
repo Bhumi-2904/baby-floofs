@@ -1,0 +1,46 @@
+{
+  "1": {
+    "name": "Milo",
+    "type": "Dog",
+    "age": 2,
+    "breed": "Beagle",
+    "image": "https://images.unsplash.com/photo-1552053831-71594a27632d?auto=format&fit=crop&w=800&q=60",
+    "description": "Friendly, energetic, and loves cuddles. Milo will follow you around like a shadow!"
+  },
+
+  "2": {
+    "name": "Snowy",
+    "type": "Cat",
+    "age": 1,
+    "breed": "Persian",
+    "image": "https://images.unsplash.com/photo-1577023311546-cdc07a8454d9?auto=format&fit=crop&w=800&q=60",
+    "description": "A calm, fluffy queen who loves warm sunspots and soft blankets."
+  },
+
+  "3": {
+    "name": "Buddy",
+    "type": "Dog",
+    "age": 4,
+    "breed": "Golden Retriever",
+    "image": "https://www.vidavetcare.com/wp-content/uploads/sites/234/2022/04/golden-retriever-dog-breed-info.jpeg",
+    "description": "A loyal sweetheart who loves fetch, belly rubs, and literally everyone."
+  },
+
+  "4": {
+    "name": "Luna",
+    "type": "Cat",
+    "age": 3,
+    "breed": "Maine Coon",
+    "image": "https://images.unsplash.com/photo-1592194996308-7b43878e84a6?auto=format&fit=crop&w=800&q=60",
+    "description": "A majestic fluffball with big eyes and bigger attitude. Extremely photogenic."
+  },
+
+  "5": {
+    "name": "Coco",
+    "type": "Dog",
+    "age": 1,
+    "breed": "Pomeranian",
+    "image": "https://i.pinimg.com/564x/24/c8/07/24c80784d34ac86d1fc35658b45641be.jpg",
+    "description": "Small, sassy, and adorable. Coco thinks she's 6 feet tall and runs the house."
+  }
+}
